@@ -1,5 +1,5 @@
 - Hi, I’m @sammi-stack
-- I’m area of interested lies in python , C++ , matlab , arduino
+- My area of Interested lies in python , C++ , matlab , arduino
 - I’m currently learning Artifical Intelligance
 - I'm in the Final Year of my studies doing Computer System Engineering from NED university
 - Our final year project is also based on Artifical Intelligance and Machine Learning
